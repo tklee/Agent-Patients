@@ -1,0 +1,4 @@
+note that you need to have verbnet installed, and also the Inspector java program that's at Martha Palmer's home website.
+
+This shell script just simply searches the verbnet database for a matching verb, and given the syntax, e.g. NP V NP, it prints out whether
+that syntax can be written as Agent V Patient, or other.
